@@ -11,10 +11,10 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
+global.ownername = "🐛Karanja"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
-global.location = "India, Up, Rampur"
+global.location = "India, Up, kenya"
 
 global.ownernumber = '917466008456'  //creator number
 global.ownername = '🐛Tech god' //owner name
@@ -25,7 +25,7 @@ global.packname = 'Sticker By'
 global.author = 'Tech-God\n\nContact: +917466008456'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '😎'
 global.wm = "Youtube Tech God."
 
 //theme link
